@@ -1,1 +1,1 @@
-# 自用 Quantumult-X 配置
+### 自用 Quantumult-X 配置
